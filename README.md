@@ -15,4 +15,19 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Yang,
+I'm 阳,a Full Stack Developer.  🚀 from China. Involved in a wide range of fields.
+
+Development, security, reverse engineering...
+
+My technology stack:
+
+> Linux、Shell、ASM、C/C++、MFC、Qt、Python、Golang、~~PHP~~(Throw away)、JavaScript、Vue、Flutter
+
+Fixed development stack:
+
+- Front end and mobile end: Vue、JavaScript、Flutter+Dart、
+- rear end: C/C++、Golang、Python、~~PHP~~
+- GUI: Qt5^、~~MFC~~、ImGui
+- Bottom layer: C/C++、Qt、Golang
+- Security: C/C++、Qt、Golang、Python、
+
