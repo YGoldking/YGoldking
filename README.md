@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm 阳,a Full Stack Developer.  🚀 from China. Involved in a wide range of fields.
+I'm 阳,a Full Stack Developer.  🚀 from China. Involved in a wide range of fields. Love alone C++ & Go & QT.
 
 Development, security, reverse engineering...
 
