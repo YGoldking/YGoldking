@@ -31,3 +31,4 @@ Fixed development stack:
 - Bottom layer: C/C++、Qt、Golang
 - Security: C/C++、Qt、Golang、Python、
 
+[![Yang's github stats](https://github-readme-stats.vercel.app/api?username=ygoldking&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
