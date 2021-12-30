@@ -15,7 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm 阳,a Full Stack Developer.  🚀 from China. Involved in a wide range of fields. Love alone C++ & Go & QT.
+
+<!--
+a Full Stack Developer.  🚀 from China. Involved in a wide range of fields. Love alone C++ & Go & QT.
 
 Development, security, reverse engineering...
 
@@ -30,6 +32,8 @@ Fixed development stack:
 - GUI: Qt5^、~~MFC~~、ImGui
 - Bottom layer: C/C++、Qt、Golang
 - Security: C/C++、Qt、Golang、Python、
+-->
+
 
 
 <!--
