@@ -48,3 +48,7 @@ Fixed development stack:
 </p>
 
 [comment]: <> (-->)
+
+
+### Visitors
+![Visitor Count](https://profile-counter.glitch.me/YGoldking/count.svg)
